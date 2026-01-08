@@ -44,7 +44,7 @@ Software Engineering undergraduate passionate about backend development and crea
 - System Design
 - Cloud Computing
 - AI and Machine Learning
-- Open Source Contributions
+- Open Source Contributions..
 
 
 
